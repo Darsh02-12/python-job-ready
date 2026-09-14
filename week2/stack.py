@@ -6,7 +6,11 @@ class Stack:
         self.items=[]
 
     def push(self,items):
+<<<<<<< HEAD
         """Ab kya lihku bhai"""
+=======
+        """Adds an Item to the top of the Stack."""
+>>>>>>> feature/stack-docstrings
         self.items.append(items)
 
     def pop(self):
