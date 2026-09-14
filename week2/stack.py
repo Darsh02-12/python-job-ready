@@ -6,6 +6,7 @@ class Stack:
         self.items=[]
 
     def push(self,items):
+        """Ab kya lihku bhai"""
         self.items.append(items)
 
     def pop(self):
