@@ -14,7 +14,7 @@ class Stack:
         return self.items.pop()
 
     def peek(self):
-        if self.is_empty:
+        if self.is_empty():
             raise StackEmptyError("The stack is Empty")
         return self.items[-1]
 
