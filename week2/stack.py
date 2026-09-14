@@ -6,6 +6,7 @@ class Stack:
         self.items=[]
 
     def push(self,items):
+        """Adds an Item to the top of the Stack."""
         self.items.append(items)
 
     def pop(self):
