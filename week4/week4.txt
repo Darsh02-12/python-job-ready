@@ -1,0 +1,10 @@
+Concept 1: Reading & Writing Files:- 
+        File - reading and Writing Files.py(notes.txt)
+
+Concept 2: Modules, Packages, pip, Virtual Environments:-
+        created a Virtual Environment
+        installed pip requests  
+        understand Modules(file imports)
+
+Concept 3: Working with APIs — requests + JSON:-
+        File - requests.py
